@@ -130,7 +130,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "14169948404-1305080833
 "externalAdReply": {
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/c/HwModsWa857`,
+"sourceUrl": `https://chat.whatsapp.com/DBkS1vKfMwb6c9EVbGzNDu`,
 "thumbnailUrl": 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 "thumbnail": kalimage
 }}}
